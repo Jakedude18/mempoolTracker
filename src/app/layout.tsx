@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Advocate Search',
-  description: 'Find and search through a comprehensive list of advocates',
+  title: 'Mempool Tracker',
+  description: 'Live stream of incoming bitcoin transactions,
 }
 
 export default function RootLayout({
